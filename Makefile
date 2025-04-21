@@ -6,3 +6,6 @@ install:
 	@sudo mv ./.log/go-password /usr/local/bin/go-password
 	@go-password -h
 
+run:
+	@@go run ./cmd/main.go
+
