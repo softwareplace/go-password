@@ -139,12 +139,3 @@ func main() {
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-This documentation provides a complete reference for users and developers. You may want to add:
-- A `LICENSE` file
-- Contribution guidelines
-- More detailed security considerations
-- Benchmarks or performance characteristics
-- Examples of generated passwords
